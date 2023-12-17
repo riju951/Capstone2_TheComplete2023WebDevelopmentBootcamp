@@ -2,10 +2,6 @@
 
 This personal website project is the capstone assignment from "The Complete 2023 Web Development Bootcamp" by Angela Yu. The goal of this project is to showcase skills, experiences, and interests using HTML and CSS exclusively, with no JavaScript code included.
 
-## Example
-
-For a preview of the project structure and functionalities, you can visit the [example site](https://appbrewery.github.io/capstone-2-example).
-
 ## Deliverables
 
 - One HTML file for the website structure.

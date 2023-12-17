@@ -2,6 +2,13 @@
 
 This personal website project is the capstone assignment from "The Complete 2023 Web Development Bootcamp" by Angela Yu. The goal of this project is to showcase skills, experiences, and interests using HTML and CSS exclusively, with no JavaScript code included.
 
+![image](https://github.com/riju951/WebDevelopmentCourse_Capstone2/assets/82694741/dc3f8ff1-8a80-4519-9b72-f935621c60f2)
+
+![image](https://github.com/riju951/WebDevelopmentCourse_Capstone2/assets/82694741/a8ab8d4c-ab0d-4723-8ff1-779ea4105d50)
+
+![image](https://github.com/riju951/WebDevelopmentCourse_Capstone2/assets/82694741/41d55545-fd9d-465c-9e73-a825d4ef39e6)
+
+
 ## Deliverables
 
 - One HTML file for the website structure.
